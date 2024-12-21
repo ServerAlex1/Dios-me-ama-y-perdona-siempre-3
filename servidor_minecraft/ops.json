@@ -4,5 +4,17 @@
     "name": "Alexterminium",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "654d869d-a3f0-33a9-8370-99024c26ddda",
+    "name": "Lordding",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "df26a504-cbbe-473d-b020-6c81930242e7",
+    "name": "lording",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

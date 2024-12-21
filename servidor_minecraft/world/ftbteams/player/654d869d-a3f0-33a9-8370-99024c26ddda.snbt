@@ -1,0 +1,17 @@
+{
+	id: "654d869d-a3f0-33a9-8370-99024c26ddda"
+	type: "player"
+	player_name: "Lordding"
+	ranks: {
+		654d869d-a3f0-33a9-8370-99024c26ddda: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Lordding"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFF0"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

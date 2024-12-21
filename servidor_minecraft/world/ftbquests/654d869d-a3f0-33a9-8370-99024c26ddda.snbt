@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "654d869da3f033a9837099024c26ddda"
+	name: "Lordding"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
