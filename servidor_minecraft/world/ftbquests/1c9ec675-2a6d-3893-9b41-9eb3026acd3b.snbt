@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "1c9ec6752a6d38939b419eb3026acd3b"
+	name: "elmatidm"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

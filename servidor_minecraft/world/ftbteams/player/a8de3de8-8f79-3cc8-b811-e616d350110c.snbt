@@ -1,0 +1,17 @@
+{
+	id: "a8de3de8-8f79-3cc8-b811-e616d350110c"
+	type: "player"
+	player_name: "Bad_ending2"
+	ranks: {
+		a8de3de8-8f79-3cc8-b811-e616d350110c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Bad_ending2"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59A7"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

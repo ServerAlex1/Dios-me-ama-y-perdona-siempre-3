@@ -1,0 +1,248 @@
+{
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-11-26 04:54:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-11-26 04:09:06 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-26 04:09:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/blackwood_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-11-26 04:09:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/pine_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2024-11-26 04:55:40 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/ru_main/baobab_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-11-26 04:09:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/magnolia_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/larch_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "dry_bushland": "2024-11-26 05:12:48 +0000",
+      "joshua_desert": "2024-11-26 05:13:58 +0000",
+      "chalk_cliffs": "2024-11-26 04:41:19 +0000",
+      "saguaro_desert": "2024-11-26 05:10:58 +0000",
+      "baobab_savanna": "2024-11-26 04:32:24 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/ru_main/palm_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:eroded_badlands": "2024-11-26 05:12:58 +0000",
+      "minecraft:beach": "2024-11-26 05:13:09 +0000",
+      "minecraft:stony_shore": "2024-11-26 04:46:54 +0000",
+      "minecraft:desert": "2024-11-26 04:09:06 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/ru_main/cypress_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/joshua_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-26 04:50:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_scorched_mines": {
+    "criteria": {
+      "location0": "2024-11-26 05:12:58 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-11-26 04:09:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/maple_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-26 04:15:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/mauve_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-11-26 04:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-11-26 04:30:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "dry_bushland": "2024-11-26 05:12:48 +0000",
+      "joshua_desert": "2024-11-26 05:13:58 +0000",
+      "chalk_cliffs": "2024-11-26 04:41:19 +0000",
+      "saguaro_desert": "2024-11-26 05:10:58 +0000",
+      "baobab_savanna": "2024-11-26 04:32:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/willow_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/socotra_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-26 05:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/kapok_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/dead_boat": {
+    "criteria": {
+      "in_water": "2024-11-26 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

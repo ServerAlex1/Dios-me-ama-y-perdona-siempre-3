@@ -1,0 +1,17 @@
+{
+	id: "ac8e0774-93b0-3e3e-be5c-bb9bf106b609"
+	type: "player"
+	player_name: "INeedAHug"
+	ranks: {
+		ac8e0774-93b0-3e3e-be5c-bb9bf106b609: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "INeedAHug"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

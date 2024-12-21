@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "f851ff960b15476a8c106fd5e40309d3"
+	name: "SoyAndreDMC"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

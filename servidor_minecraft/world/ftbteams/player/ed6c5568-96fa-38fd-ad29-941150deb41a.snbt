@@ -1,0 +1,17 @@
+{
+	id: "ed6c5568-96fa-38fd-ad29-941150deb41a"
+	type: "player"
+	player_name: "Alexterminium"
+	ranks: {
+		ed6c5568-96fa-38fd-ad29-941150deb41a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Alexterminium"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5974"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

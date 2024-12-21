@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "451f2212cf2a365e88c7f71e8fb39676"
+	name: "MisterBartra"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

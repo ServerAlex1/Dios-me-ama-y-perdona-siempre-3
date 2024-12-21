@@ -1,0 +1,17 @@
+{
+	id: "451f2212-cf2a-365e-88c7-f71e8fb39676"
+	type: "player"
+	player_name: "MisterBartra"
+	ranks: {
+		451f2212-cf2a-365e-88c7-f71e8fb39676: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MisterBartra"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C759FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

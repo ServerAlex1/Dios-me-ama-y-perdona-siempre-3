@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "0990056a6b1435318f5138aa65a86677"
+	name: "Wiinter987"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

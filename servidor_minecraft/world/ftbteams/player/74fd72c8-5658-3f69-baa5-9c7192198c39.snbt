@@ -1,0 +1,15 @@
+{
+	id: "74fd72c8-5658-3f69-baa5-9c7192198c39"
+	type: "player"
+	player_name: "2103_"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "2103_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFF5"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

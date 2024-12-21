@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "ffa43c44aa6437a08e4ba0f7405b7f08"
+	name: "DaniAndraderz"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

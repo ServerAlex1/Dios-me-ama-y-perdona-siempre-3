@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "115f9fc6d2e73b69a22e7a6038b8da14"
+	name: "EMILIO__12"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

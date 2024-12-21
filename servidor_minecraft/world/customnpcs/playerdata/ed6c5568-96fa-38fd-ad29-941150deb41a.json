@@ -1,0 +1,93 @@
+{
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 1,
+                "Date": 2736967L
+            },
+            {
+                "Quest": 2,
+                "Date": 3195138L
+            },
+            {
+                "Quest": 3,
+                "Date": 2777643L
+            },
+            {
+                "Quest": 4,
+                "Date": 2807562L
+            },
+            {
+                "Quest": 7,
+                "Date": 2816228L
+            },
+            {
+                "Quest": 8,
+                "Date": 2830068L
+            }
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 1
+        },
+        {
+            "Dialog": 2
+        },
+        {
+            "Dialog": 3
+        },
+        {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 5
+        },
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 7
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 9
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        },
+        {
+            "Dialog": 12
+        }
+    ],
+    "ItemGiverChained": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Alexterminium",
+    "UUID": "ed6c5568-96fa-38fd-ad29-941150deb41a",
+    "ScriptStoreddata": {
+    }
+}

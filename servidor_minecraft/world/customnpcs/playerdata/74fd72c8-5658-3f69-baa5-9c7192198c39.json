@@ -1,0 +1,58 @@
+{
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 2,
+                "Date": 3192287L
+            }
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 7
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 9
+        },
+        {
+            "Dialog": 11
+        },
+        {
+            "Dialog": 12
+        }
+    ],
+    "ItemGiverChained": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "2103_",
+    "UUID": "74fd72c8-5658-3f69-baa5-9c7192198c39",
+    "ScriptStoreddata": {
+    }
+}

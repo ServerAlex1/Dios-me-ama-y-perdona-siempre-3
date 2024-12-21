@@ -1,0 +1,15 @@
+{
+	id: "0990056a-6b14-3531-8f51-38aa65a86677"
+	type: "player"
+	player_name: "Wiinter987"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Wiinter987"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF93"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

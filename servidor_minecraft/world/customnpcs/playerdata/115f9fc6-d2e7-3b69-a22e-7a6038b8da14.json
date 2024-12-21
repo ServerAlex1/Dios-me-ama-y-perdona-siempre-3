@@ -1,0 +1,42 @@
+{
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 12
+        }
+    ],
+    "ItemGiverChained": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "EMILIO__12",
+    "UUID": "115f9fc6-d2e7-3b69-a22e-7a6038b8da14",
+    "ScriptStoreddata": {
+    }
+}

@@ -1,0 +1,17 @@
+{
+	id: "115f9fc6-d2e7-3b69-a22e-7a6038b8da14"
+	type: "player"
+	player_name: "EMILIO__12"
+	ranks: {
+		115f9fc6-d2e7-3b69-a22e-7a6038b8da14: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "EMILIO__12"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6EFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

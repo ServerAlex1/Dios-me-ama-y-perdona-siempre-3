@@ -1,0 +1,45 @@
+{
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 7
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 10
+        }
+    ],
+    "ItemGiverChained": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "DaniAndraderz",
+    "UUID": "ffa43c44-aa64-37a0-8e4b-a0f7405b7f08",
+    "ScriptStoreddata": {
+    }
+}

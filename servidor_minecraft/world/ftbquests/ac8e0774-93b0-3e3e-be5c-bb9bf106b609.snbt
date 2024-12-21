@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "ac8e077493b03e3ebe5cbb9bf106b609"
+	name: "INeedAHug"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "06650764-cb94-3ca9-ad44-76945e5941e3"
+	type: "player"
+	player_name: "ali_xddd333"
+	ranks: {
+		06650764-cb94-3ca9-ad44-76945e5941e3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ali_xddd333"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E4FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

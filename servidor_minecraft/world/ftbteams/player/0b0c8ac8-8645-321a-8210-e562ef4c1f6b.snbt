@@ -1,0 +1,17 @@
+{
+	id: "0b0c8ac8-8645-321a-8210-e562ef4c1f6b"
+	type: "player"
+	player_name: "SoyAndreDMC"
+	ranks: {
+		0b0c8ac8-8645-321a-8210-e562ef4c1f6b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SoyAndreDMC"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFC659"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

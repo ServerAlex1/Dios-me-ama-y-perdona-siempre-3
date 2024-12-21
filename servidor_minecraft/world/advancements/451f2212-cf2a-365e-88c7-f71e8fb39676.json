@@ -1,0 +1,504 @@
+{
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-11-26 03:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-11-26 03:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-26 03:29:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-11-26 03:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-11-26 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-11-26 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-12-21 19:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-11-26 03:28:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-11-26 03:03:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-11-24 21:16:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-11-26 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-11-26 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-21 19:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-11-26 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:eroded_badlands": "2024-11-24 21:25:15 +0000",
+      "minecraft:beach": "2024-11-26 03:12:53 +0000",
+      "minecraft:river": "2024-12-21 19:42:24 +0000",
+      "minecraft:stony_shore": "2024-11-24 21:19:53 +0000",
+      "minecraft:desert": "2024-11-24 21:16:44 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/ru_main/joshua_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-11-26 03:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-11-26 03:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-11-26 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/maple_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-26 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-26 03:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-11-26 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-11-26 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-26 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/willow_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/socotra_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-26 03:02:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-11-26 03:28:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-26 03:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-11-26 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/kapok_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2024-11-26 03:03:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-21 19:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-11-26 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "ancient_delta": "2024-12-21 19:42:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-11-26 03:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-26 03:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-26 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-11-24 21:16:44 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-24 21:16:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/blackwood_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2024-11-26 03:29:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-11-24 21:16:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/pine_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-11-26 03:06:10 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/ru_main/baobab_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/magnolia_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-11-26 03:41:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/larch_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "dry_bushland": "2024-12-21 19:41:37 +0000",
+      "ancient_delta": "2024-12-21 19:42:12 +0000",
+      "tropical_river": "2024-11-26 03:12:34 +0000",
+      "joshua_desert": "2024-11-26 03:10:13 +0000",
+      "chalk_cliffs": "2024-11-24 21:19:41 +0000",
+      "saguaro_desert": "2024-11-26 02:53:29 +0000",
+      "baobab_savanna": "2024-11-24 21:19:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-11-26 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-11-26 03:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-11-26 03:28:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/palm_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-11-26 03:30:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/cypress_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-11-26 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_scorched_mines": {
+    "criteria": {
+      "location0": "2024-12-21 19:43:14 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-11-24 21:16:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-26 03:29:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/mauve_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "dry_bushland": "2024-12-21 19:41:37 +0000",
+      "tropical_river": "2024-11-26 03:12:34 +0000",
+      "joshua_desert": "2024-11-26 03:10:13 +0000",
+      "chalk_cliffs": "2024-11-24 21:19:41 +0000",
+      "saguaro_desert": "2024-11-26 02:53:29 +0000",
+      "baobab_savanna": "2024-11-24 21:19:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-11-26 03:28:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-26 03:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-11-26 03:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-26 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-26 03:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-26 03:29:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-26 03:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-11-26 03:30:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/dead_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

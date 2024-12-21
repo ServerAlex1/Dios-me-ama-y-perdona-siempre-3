@@ -1,0 +1,17 @@
+{
+	id: "ffa43c44-aa64-37a0-8e4b-a0f7405b7f08"
+	type: "player"
+	player_name: "DaniAndraderz"
+	ranks: {
+		ffa43c44-aa64-37a0-8e4b-a0f7405b7f08: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DaniAndraderz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFC859"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

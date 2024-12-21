@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "5e6c93b386c94780a8fce28f6e6c549e"
+	name: "Ñ"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "1641ff8d62d431dbb7b6930f805829ff"
+	name: "BRAXX_7ZX"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

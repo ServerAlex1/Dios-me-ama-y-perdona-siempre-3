@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "06650764cb943ca9ad4476945e5941e3"
+	name: "ali_xddd333"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

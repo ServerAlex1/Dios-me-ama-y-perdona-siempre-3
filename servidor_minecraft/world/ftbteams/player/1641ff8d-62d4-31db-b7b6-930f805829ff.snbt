@@ -1,0 +1,17 @@
+{
+	id: "1641ff8d-62d4-31db-b7b6-930f805829ff"
+	type: "player"
+	player_name: "BRAXX_7ZX"
+	ranks: {
+		1641ff8d-62d4-31db-b7b6-930f805829ff: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "BRAXX_7ZX"
+		"ftbteams:description": ""
+		"ftbteams:color": "#599CFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "74fd72c856583f69baa59c7192198c39"
+	name: "2103_"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

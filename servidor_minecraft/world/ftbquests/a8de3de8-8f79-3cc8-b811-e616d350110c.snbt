@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "a8de3de88f793cc8b811e616d350110c"
+	name: "Bad_ending2"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
