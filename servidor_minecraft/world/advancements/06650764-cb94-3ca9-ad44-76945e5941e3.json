@@ -29,6 +29,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-21 19:31:18 +0000"
@@ -41,9 +53,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/stone_grass_block": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-12-21 20:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
     },
     "done": true
   },
@@ -56,6 +80,18 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 20:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
     },
     "done": true
   },
@@ -89,6 +125,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-21 19:49:07 +0000"
@@ -104,6 +152,12 @@
   "create:recipes/create.palettes/oak_window": {
     "criteria": {
       "has_ingredient": "2024-12-21 20:13:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/viridescent_nylium": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
     },
     "done": true
   },
@@ -225,6 +279,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/redwood_boat": {
     "criteria": {
       "in_water": "2024-12-21 19:49:07 +0000"
@@ -249,6 +309,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/mossy_stone": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:pioneer": {
     "criteria": {
       "tropical_river": "2024-12-21 19:36:25 +0000",
@@ -262,6 +328,12 @@
   "regions_unexplored:recipes/ru_main/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 20:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
     },
     "done": true
   },
@@ -310,6 +382,12 @@
   "lootr:root": {
     "criteria": {
       "always_true": "2024-12-21 19:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
     },
     "done": true
   },
@@ -391,6 +469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:eroded_badlands": "2024-12-21 19:55:58 +0000",
@@ -423,6 +507,12 @@
   "regions_unexplored:recipes/ru_main/blackwood_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 20:21:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/prismoss": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
     },
     "done": true
   },
@@ -504,6 +594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-21 19:49:07 +0000"
@@ -525,6 +621,18 @@
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-21 20:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
     },
     "done": true
   },
@@ -579,6 +687,12 @@
   "regions_unexplored:recipes/ru_main/pine_boat": {
     "criteria": {
       "in_water": "2024-12-21 19:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-21 21:00:33 +0000"
     },
     "done": true
   },
