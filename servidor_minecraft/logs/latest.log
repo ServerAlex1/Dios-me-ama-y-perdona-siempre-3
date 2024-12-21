@@ -721,3 +721,264 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21Dec2024 21:08:53.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
 [21Dec2024 21:08:53.564] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
 [21Dec2024 21:08:53.564] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[21Dec2024 21:09:03.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> ./cemd addhand bone_serpent 0.1
+[21Dec2024 21:09:23.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set MisterBartra's game mode to Survival Mode]
+[21Dec2024 21:09:37.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[21Dec2024 21:09:37.402] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[21Dec2024 21:09:37.402] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[21Dec2024 21:09:49.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[21Dec2024 21:09:49.911] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[21Dec2024 21:09:49.914] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[21Dec2024 21:09:53.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> asi
+[21Dec2024 21:09:57.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Spectator Mode]
+[21Dec2024 21:10:00.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[21Dec2024 21:12:07.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[21Dec2024 21:12:07.354] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[21Dec2024 21:12:07.355] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[21Dec2024 21:12:12.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra has made the advancement [Knowledge of Death]
+[21Dec2024 21:12:12.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra has reached the goal [Strong or Careful]
+[21Dec2024 21:12:12.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra was electrocuted
+[21Dec2024 21:12:12.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra has made the advancement [Your First Grave]
+[21Dec2024 21:12:12.817] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[21Dec2024 21:12:13.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra has made the advancement [The Most Useful Key]
+[21Dec2024 21:12:23.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra has reached the goal [A Fast Comeback]
+[21Dec2024 21:13:04.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> alarma
+[21Dec2024 21:13:38.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set the weather to clear]
+[21Dec2024 21:13:41.352] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/sounds/SoundInstance for invalid dist DEDICATED_SERVER
+[21Dec2024 21:14:16.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set MisterBartra's game mode to Creative Mode]
+[21Dec2024 21:14:32.840] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/sounds/SoundInstance for invalid dist DEDICATED_SERVER
+[21Dec2024 21:15:39.209] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/ac8e0774-93b0-3e3e-be5c-bb9bf106b609.json: Don't know what waterframes:frame is
+[21Dec2024 21:15:39.210] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/ac8e0774-93b0-3e3e-be5c-bb9bf106b609.json: Don't know what waterframes:tv_box is
+[21Dec2024 21:15:39.214] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mcwfurnitures:recipes/oak' in progress file ./world/advancements/ac8e0774-93b0-3e3e-be5c-bb9bf106b609.json - it doesn't exist anymore?
+[21Dec2024 21:15:39.216] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@26e4fb25
+[21Dec2024 21:15:39.224] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_double_wardrobe removed now.
+[21Dec2024 21:15:39.225] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_double_drawer_counter removed now.
+[21Dec2024 21:15:39.225] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_triple_drawer removed now.
+[21Dec2024 21:15:39.225] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_modern_wardrobe removed now.
+[21Dec2024 21:15:39.225] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_double_drawer removed now.
+[21Dec2024 21:15:39.225] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_covered_desk removed now.
+[21Dec2024 21:15:39.225] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:cabinet_drawer removed now.
+[21Dec2024 21:15:39.225] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_glass_kitchen_cabinet removed now.
+[21Dec2024 21:15:39.225] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_glass_table removed now.
+[21Dec2024 21:15:39.225] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_drawer removed now.
+[21Dec2024 21:15:39.226] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_bookshelf removed now.
+[21Dec2024 21:15:39.226] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:cabinet_door removed now.
+[21Dec2024 21:15:39.226] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_desk removed now.
+[21Dec2024 21:15:39.226] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_coffee_table removed now.
+[21Dec2024 21:15:39.226] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_end_table removed now.
+[21Dec2024 21:15:39.226] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_triple_drawer removed now.
+[21Dec2024 21:15:39.226] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_chair removed now.
+[21Dec2024 21:15:39.226] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_stool_chair removed now.
+[21Dec2024 21:15:39.226] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_double_drawer_counter removed now.
+[21Dec2024 21:15:39.226] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_counter removed now.
+[21Dec2024 21:15:39.227] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_double_kitchen_cabinet removed now.
+[21Dec2024 21:15:39.227] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_wardrobe removed now.
+[21Dec2024 21:15:39.227] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_modern_desk removed now.
+[21Dec2024 21:15:39.227] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_lower_triple_drawer removed now.
+[21Dec2024 21:15:39.227] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_chair removed now.
+[21Dec2024 21:15:39.227] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_drawer_counter removed now.
+[21Dec2024 21:15:39.227] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_glass_kitchen_cabinet removed now.
+[21Dec2024 21:15:39.227] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_glass_table removed now.
+[21Dec2024 21:15:39.227] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_modern_wardrobe removed now.
+[21Dec2024 21:15:39.228] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_large_drawer removed now.
+[21Dec2024 21:15:39.228] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_bookshelf_cupboard removed now.
+[21Dec2024 21:15:39.228] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_bookshelf removed now.
+[21Dec2024 21:15:39.228] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_table removed now.
+[21Dec2024 21:15:39.228] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_bookshelf_drawer removed now.
+[21Dec2024 21:15:39.228] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_lower_bookshelf_drawer removed now.
+[21Dec2024 21:15:39.228] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_kitchen_cabinet removed now.
+[21Dec2024 21:15:39.228] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_cupboard_counter removed now.
+[21Dec2024 21:15:39.228] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_double_drawer removed now.
+[21Dec2024 21:15:39.228] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_lower_triple_drawer removed now.
+[21Dec2024 21:15:39.229] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_striped_chair removed now.
+[21Dec2024 21:15:39.229] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_double_kitchen_cabinet removed now.
+[21Dec2024 21:15:39.229] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_kitchen_cabinet removed now.
+[21Dec2024 21:15:39.229] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_stool_chair removed now.
+[21Dec2024 21:15:39.229] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_wardrobe removed now.
+[21Dec2024 21:15:39.229] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_cupboard_counter removed now.
+[21Dec2024 21:15:39.229] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_striped_chair removed now.
+[21Dec2024 21:15:39.229] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_desk removed now.
+[21Dec2024 21:15:39.229] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_bookshelf_cupboard removed now.
+[21Dec2024 21:15:39.229] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_covered_desk removed now.
+[21Dec2024 21:15:39.230] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_bookshelf_drawer removed now.
+[21Dec2024 21:15:39.230] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_large_drawer removed now.
+[21Dec2024 21:15:39.230] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_drawer removed now.
+[21Dec2024 21:15:39.230] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_drawer_counter removed now.
+[21Dec2024 21:15:39.230] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_lower_bookshelf_drawer removed now.
+[21Dec2024 21:15:39.230] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_table removed now.
+[21Dec2024 21:15:39.230] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_double_wardrobe removed now.
+[21Dec2024 21:15:39.230] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_modern_chair removed now.
+[21Dec2024 21:15:39.230] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_end_table removed now.
+[21Dec2024 21:15:39.230] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_modern_chair removed now.
+[21Dec2024 21:15:39.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_counter removed now.
+[21Dec2024 21:15:39.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_modern_desk removed now.
+[21Dec2024 21:15:39.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_coffee_table removed now.
+[21Dec2024 21:15:39.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_double_wardrobe removed now.
+[21Dec2024 21:15:39.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_double_drawer_counter removed now.
+[21Dec2024 21:15:39.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_triple_drawer removed now.
+[21Dec2024 21:15:39.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_modern_wardrobe removed now.
+[21Dec2024 21:15:39.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_double_drawer removed now.
+[21Dec2024 21:15:39.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_covered_desk removed now.
+[21Dec2024 21:15:39.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:cabinet_drawer removed now.
+[21Dec2024 21:15:39.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_glass_kitchen_cabinet removed now.
+[21Dec2024 21:15:39.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_glass_table removed now.
+[21Dec2024 21:15:39.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_drawer removed now.
+[21Dec2024 21:15:39.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_bookshelf removed now.
+[21Dec2024 21:15:39.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:cabinet_door removed now.
+[21Dec2024 21:15:39.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_desk removed now.
+[21Dec2024 21:15:39.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_coffee_table removed now.
+[21Dec2024 21:15:39.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_end_table removed now.
+[21Dec2024 21:15:39.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_triple_drawer removed now.
+[21Dec2024 21:15:39.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_chair removed now.
+[21Dec2024 21:15:39.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_stool_chair removed now.
+[21Dec2024 21:15:39.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_double_drawer_counter removed now.
+[21Dec2024 21:15:39.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_counter removed now.
+[21Dec2024 21:15:39.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_double_kitchen_cabinet removed now.
+[21Dec2024 21:15:39.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_wardrobe removed now.
+[21Dec2024 21:15:39.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_modern_desk removed now.
+[21Dec2024 21:15:39.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_lower_triple_drawer removed now.
+[21Dec2024 21:15:39.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_chair removed now.
+[21Dec2024 21:15:39.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_drawer_counter removed now.
+[21Dec2024 21:15:39.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_glass_kitchen_cabinet removed now.
+[21Dec2024 21:15:39.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_glass_table removed now.
+[21Dec2024 21:15:39.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_modern_wardrobe removed now.
+[21Dec2024 21:15:39.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_large_drawer removed now.
+[21Dec2024 21:15:39.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_bookshelf_cupboard removed now.
+[21Dec2024 21:15:39.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_bookshelf removed now.
+[21Dec2024 21:15:39.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_table removed now.
+[21Dec2024 21:15:39.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_bookshelf_drawer removed now.
+[21Dec2024 21:15:39.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_lower_bookshelf_drawer removed now.
+[21Dec2024 21:15:39.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_kitchen_cabinet removed now.
+[21Dec2024 21:15:39.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_cupboard_counter removed now.
+[21Dec2024 21:15:39.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_double_drawer removed now.
+[21Dec2024 21:15:39.234] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_lower_triple_drawer removed now.
+[21Dec2024 21:15:39.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_striped_chair removed now.
+[21Dec2024 21:15:39.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_double_kitchen_cabinet removed now.
+[21Dec2024 21:15:39.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_kitchen_cabinet removed now.
+[21Dec2024 21:15:39.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_stool_chair removed now.
+[21Dec2024 21:15:39.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_wardrobe removed now.
+[21Dec2024 21:15:39.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_cupboard_counter removed now.
+[21Dec2024 21:15:39.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_striped_chair removed now.
+[21Dec2024 21:15:39.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_desk removed now.
+[21Dec2024 21:15:39.235] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_bookshelf_cupboard removed now.
+[21Dec2024 21:15:39.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_covered_desk removed now.
+[21Dec2024 21:15:39.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_bookshelf_drawer removed now.
+[21Dec2024 21:15:39.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_large_drawer removed now.
+[21Dec2024 21:15:39.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_drawer removed now.
+[21Dec2024 21:15:39.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_drawer_counter removed now.
+[21Dec2024 21:15:39.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_lower_bookshelf_drawer removed now.
+[21Dec2024 21:15:39.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_table removed now.
+[21Dec2024 21:15:39.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_double_wardrobe removed now.
+[21Dec2024 21:15:39.236] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_modern_chair removed now.
+[21Dec2024 21:15:39.237] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_end_table removed now.
+[21Dec2024 21:15:39.237] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:oak_modern_chair removed now.
+[21Dec2024 21:15:39.237] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_counter removed now.
+[21Dec2024 21:15:39.237] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_modern_desk removed now.
+[21Dec2024 21:15:39.237] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mcwfurnitures:stripped_oak_coffee_table removed now.
+[21Dec2024 21:15:39.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: INeedAHug[/127.232.145.56:44327] logged in with entity id 15609 at (74.31417882336534, 313.9779350851957, 137.71145217119567)
+[21Dec2024 21:15:39.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INeedAHug joined the game
+[21Dec2024 21:15:39.285] [Server thread/INFO] [Jade/]: Syncing config to INeedAHug (ac8e0774-93b0-3e3e-be5c-bb9bf106b609)
+[21Dec2024 21:15:39.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INeedAHug has made the advancement [Christmas]
+[21Dec2024 21:15:39.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INeedAHug has made the advancement [Mysterious Gift]
+[21Dec2024 21:15:44.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: INeedAHug lost connection: Disconnected
+[21Dec2024 21:15:44.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INeedAHug left the game
+[21Dec2024 21:16:02.597] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3f8f1b07
+[21Dec2024 21:16:02.603] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: INeedAHug[/127.232.145.56:33103] logged in with entity id 15763 at (74.31417882336534, 313.9779350851957, 137.71145217119567)
+[21Dec2024 21:16:02.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INeedAHug joined the game
+[21Dec2024 21:16:02.667] [Server thread/INFO] [Jade/]: Syncing config to INeedAHug (ac8e0774-93b0-3e3e-be5c-bb9bf106b609)
+[21Dec2024 21:16:41.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> ya se podra ver las camaras
+[21Dec2024 21:16:42.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <INeedAHug> todavia no tengo accesoa comando
+[21Dec2024 21:16:44.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <INeedAHug> den mod
+[21Dec2024 21:16:52.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: INeedAHug moved too quickly! 6.047537484814022,-3.216986662799229,8.549654234772873
+[21Dec2024 21:17:15.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: INeedAHug moved too quickly! -10.436117467249389,0.0,1.0616053973035946
+[21Dec2024 21:18:58.149] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/sounds/SoundInstance for invalid dist DEDICATED_SERVER
+[21Dec2024 21:19:09.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set the weather to clear]
+[21Dec2024 21:19:27.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set the time to 2000]
+[21Dec2024 21:19:30.918] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/sounds/SoundInstance for invalid dist DEDICATED_SERVER
+[21Dec2024 21:19:45.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> cuales
+[21Dec2024 21:21:15.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> como le hago para configurar esto
+[21Dec2024 21:21:23.273] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/sounds/SoundInstance for invalid dist DEDICATED_SERVER
+[21Dec2024 21:21:48.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to EMILIO__12]
+[21Dec2024 21:21:57.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> alex
+[21Dec2024 21:22:18.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> las camaras ya estan activadas para verlas
+[21Dec2024 21:23:13.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> alex mira ven
+[21Dec2024 21:23:36.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made INeedAHug a server operator
+[21Dec2024 21:23:57.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lordding: Summoned new Bone Serpent Bones]
+[21Dec2024 21:24:16.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lordding: Summoned new Bunfungus]
+[21Dec2024 21:24:20.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set the time to 2000]
+[21Dec2024 21:24:22.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set the weather to clear]
+[21Dec2024 21:25:11.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterBartra> :o
+[21Dec2024 21:26:03.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lordding: Summoned new Whale Echo]
+[21Dec2024 21:26:08.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lordding: Summoned new Cachalot Whale]
+[21Dec2024 21:26:16.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterBartra> dame debug stick plsplspls
+[21Dec2024 21:26:25.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lordding: Summoned new Cachalot Whale]
+[21Dec2024 21:26:27.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterBartra> alex? estás?
+[21Dec2024 21:26:31.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lordding: Summoned new Cachalot Whale]
+[21Dec2024 21:26:37.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lordding: Summoned new Cachalot Whale]
+[21Dec2024 21:26:42.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to ali_xddd333]
+[21Dec2024 21:27:00.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> Alex toma
+[21Dec2024 21:27:10.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> ./cemd addhand cachalot_whale 0.1
+[21Dec2024 21:27:15.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> ./cemd addhand cachalot_whale 0.1
+[21Dec2024 21:27:21.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> a
+[21Dec2024 21:27:38.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> yo lo hago configurar eso ;D
+[21Dec2024 21:27:44.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> si
+[21Dec2024 21:27:56.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> pero te gusta?
+[21Dec2024 21:28:07.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterBartra> ya dije son como 1250 chunks por cada uno de los 4 lados
+[21Dec2024 21:28:27.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [INeedAHug: Teleported INeedAHug to Alexterminium]
+[21Dec2024 21:28:58.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> miedo.com
+[21Dec2024 21:29:25.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set the weather to clear]
+[21Dec2024 21:31:06.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> que susto ptm
+[21Dec2024 21:31:12.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIO__12 moved too quickly! -5.163252025174586,6.114595801010381,6.429564107989123
+[21Dec2024 21:31:22.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> me pasas su nombre
+[21Dec2024 21:31:27.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> para agregarte
+[21Dec2024 21:31:40.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> a permisos a esto
+[21Dec2024 21:31:48.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> aya xd
+[21Dec2024 21:32:34.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> yo aun asi voy a poner para ver las camaras XD
+[21Dec2024 21:34:26.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIO__12> MAG HACEME TP
+[21Dec2024 21:34:43.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterBartra> Que pro
+[21Dec2024 21:36:48.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> si
+[21Dec2024 21:37:41.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> hay esta el rayo que cayo serca del alex XD
+[21Dec2024 21:39:39.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> me tengo que ir-
+[21Dec2024 21:39:47.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> alex
+[21Dec2024 21:39:49.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIO__12> COMOOOOOOOOOOOOOOOOOO
+[21Dec2024 21:40:09.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [INeedAHug: Teleported INeedAHug to EMILIO__12]
+[21Dec2024 21:40:16.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> tengo que salir a comprar-
+[21Dec2024 21:40:24.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> yo creo
+[21Dec2024 21:40:40.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> si no vuelvo perdon TwT
+[21Dec2024 21:41:09.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> ñop
+[21Dec2024 21:41:53.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ali_xddd333> ya me voy me estan apurando perdonn TwT
+[21Dec2024 21:41:56.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ali_xddd333 lost connection: Disconnected
+[21Dec2024 21:41:56.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd333 left the game
+[21Dec2024 21:42:03.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set the weather to clear]
+[21Dec2024 21:42:31.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: INeedAHug moved too quickly! 0.35654934729807053,3.3124423066784487,9.620460347944288
+[21Dec2024 21:42:34.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: INeedAHug moved too quickly! 0.021898968674278763,0.10004135562142835,10.204522030624531
+[21Dec2024 21:49:57.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lordding: Summoned new Capuchin Monkey]
+[21Dec2024 21:50:56.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> ./cemd addhand capuchin_monkey
+[21Dec2024 21:51:00.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> ./cemd addhand capuchin_monkey
+[21Dec2024 21:51:24.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made MisterBartra a server operator
+[21Dec2024 21:51:38.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set the weather to clear]
+[21Dec2024 21:52:06.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIO__12 has made the advancement [Mariachi?]
+[21Dec2024 21:52:16.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIO__12 has completed the challenge [Mariachi!]
+[21Dec2024 21:52:19.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lordding: Summoned new Catfish]
+[21Dec2024 21:52:38.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> ./cemd addhand catfish 0.1
+[21Dec2024 21:53:00.233] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/31888, l='ServerLevel[world]', x=989.50, y=51.00, z=946.50]
+[21Dec2024 21:53:12.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lordding: Summoned new Cave Centipede Body]
+[21Dec2024 21:53:21.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lordding: Summoned new Cave Centipede]
+[21Dec2024 21:53:50.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium lost connection: Disconnected
+[21Dec2024 21:53:50.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium left the game
+[21Dec2024 21:53:53.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Dec2024 21:53:53.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Dec2024 21:53:53.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Dec2024 21:53:53.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lordding lost connection: Server closed
+[21Dec2024 21:53:53.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lordding left the game
+[21Dec2024 21:53:53.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MisterBartra lost connection: Server closed
+[21Dec2024 21:53:53.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra left the game
+[21Dec2024 21:53:53.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Dec2024 21:53:56.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Dec2024 21:53:57.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Dec2024 21:53:57.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Dec2024 21:53:57.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Dec2024 21:53:57.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Dec2024 21:53:57.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Dec2024 21:53:57.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Dec2024 21:53:57.129] [Server thread/INFO] [Framework/]: Unloading server configs...

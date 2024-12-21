@@ -1381,6 +1381,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/remote_access_sentry": {
+    "criteria": {
+      "has_sentry": "2024-12-21 21:20:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/magenta_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-11-08 17:32:12 +0000"
@@ -1642,6 +1648,7 @@
       "minecraft:ocean": "2024-11-26 01:03:42 +0000",
       "minecraft:warm_ocean": "2024-11-08 15:17:27 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-26 01:17:05 +0000",
+      "minecraft:meadow": "2024-12-21 21:51:42 +0000",
       "minecraft:savanna": "2024-11-08 15:47:40 +0000",
       "minecraft:plains": "2024-12-21 20:10:19 +0000"
     },

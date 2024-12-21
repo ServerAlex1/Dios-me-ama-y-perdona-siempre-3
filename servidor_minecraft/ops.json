@@ -1,7 +1,19 @@
 [
   {
+    "uuid": "ac8e0774-93b0-3e3e-be5c-bb9bf106b609",
+    "name": "INeedAHug",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "ed6c5568-96fa-38fd-ad29-941150deb41a",
     "name": "Alexterminium",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "451f2212-cf2a-365e-88c7-f71e8fb39676",
+    "name": "MisterBartra",
     "level": 4,
     "bypassesPlayerLimit": false
   },
