@@ -2836,6 +2836,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2024-12-21 19:55:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-11-08 15:45:21 +0000"

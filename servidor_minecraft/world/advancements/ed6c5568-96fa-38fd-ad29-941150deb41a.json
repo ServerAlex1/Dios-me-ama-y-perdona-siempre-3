@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-21 19:56:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-08 17:45:32 +0000"
@@ -692,6 +698,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2024-12-21 19:49:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2024-11-16 03:17:14 +0000"
@@ -835,6 +847,13 @@
       "has_glass": "2024-11-08 17:45:32 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-12-21 19:57:36 +0000",
+      "opened_chest": "2024-12-21 19:56:10 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
@@ -2913,6 +2932,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2024-12-21 19:50:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-11-08 18:52:55 +0000"
@@ -3042,6 +3067,12 @@
   "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
     "criteria": {
       "has_sign": "2024-11-09 13:41:45 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-21 19:57:36 +0000"
     },
     "done": true
   },

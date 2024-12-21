@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:phantom": "2024-12-21 19:55:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-11-26 03:28:25 +0000"
@@ -86,6 +92,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-11-26 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-21 19:47:32 +0000"
     },
     "done": true
   },
@@ -243,6 +255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-21 19:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-11-26 03:29:03 +0000"
@@ -297,6 +315,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:phantom": "2024-12-21 19:55:44 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2024-11-26 03:29:00 +0000"
@@ -317,7 +341,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2024-11-26 03:06:10 +0000"
+      "cooked_porkchop": "2024-11-26 03:06:10 +0000",
+      "honey_bottle": "2024-12-21 19:47:35 +0000"
     },
     "done": false
   },
