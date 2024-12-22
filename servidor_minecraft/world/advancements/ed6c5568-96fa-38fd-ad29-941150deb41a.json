@@ -1635,6 +1635,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-22 13:08:15 +0000",
       "minecraft:eroded_badlands": "2024-11-08 14:02:11 +0000",
       "minecraft:badlands": "2024-11-08 22:18:42 +0000",
       "minecraft:beach": "2024-11-08 16:10:10 +0000",
