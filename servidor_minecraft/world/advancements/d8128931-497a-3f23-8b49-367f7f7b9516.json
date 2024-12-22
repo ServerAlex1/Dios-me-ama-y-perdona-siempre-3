@@ -1,4 +1,10 @@
 {
+  "dungeons_arise:find_scorched_mines": {
+    "criteria": {
+      "location0": "2024-12-22 13:30:27 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2024-12-22 13:03:18 +0000"
@@ -43,8 +49,10 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "dry_bushland": "2024-12-22 13:31:10 +0000",
       "tropical_river": "2024-12-22 13:16:02 +0000",
       "joshua_desert": "2024-12-22 13:16:08 +0000",
+      "chalk_cliffs": "2024-12-22 13:33:45 +0000",
       "saguaro_desert": "2024-12-22 13:15:47 +0000",
       "baobab_savanna": "2024-12-22 13:09:54 +0000"
     },
@@ -70,8 +78,10 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "dry_bushland": "2024-12-22 13:31:10 +0000",
       "tropical_river": "2024-12-22 13:16:02 +0000",
       "joshua_desert": "2024-12-22 13:16:08 +0000",
+      "chalk_cliffs": "2024-12-22 13:33:45 +0000",
       "saguaro_desert": "2024-12-22 13:15:47 +0000",
       "baobab_savanna": "2024-12-22 13:09:54 +0000"
     },
@@ -80,6 +90,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-22 13:08:59 +0000",
+      "minecraft:stony_shore": "2024-12-22 13:33:48 +0000",
       "minecraft:desert": "2024-12-22 13:03:19 +0000",
       "minecraft:meadow": "2024-12-22 13:08:03 +0000",
       "minecraft:plains": "2024-12-22 13:07:46 +0000"

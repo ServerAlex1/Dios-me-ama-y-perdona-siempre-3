@@ -397,6 +397,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-12-22 13:29:43 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/cyan_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-21 20:13:30 +0000"
@@ -483,11 +489,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-22 13:22:52 +0000",
       "minecraft:eroded_badlands": "2024-12-21 19:55:58 +0000",
       "minecraft:badlands": "2024-12-21 19:56:00 +0000",
       "minecraft:beach": "2024-12-21 19:48:43 +0000",
       "minecraft:river": "2024-12-21 19:55:59 +0000",
       "minecraft:desert": "2024-12-21 19:31:19 +0000",
+      "minecraft:meadow": "2024-12-22 13:22:51 +0000",
       "minecraft:plains": "2024-12-21 20:11:14 +0000"
     },
     "done": false
@@ -606,6 +614,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-22 13:29:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-21 19:49:07 +0000"
@@ -671,6 +685,12 @@
       "has_boat": "2024-12-21 20:21:45 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-12-22 13:29:43 +0000"
+    },
+    "done": false
   },
   "regions_unexplored:recipes/ru_main/palm_chest_boat": {
     "criteria": {
