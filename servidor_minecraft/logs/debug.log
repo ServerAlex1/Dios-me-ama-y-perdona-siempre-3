@@ -11384,3 +11384,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 14:19:33.636] [Worker-Main3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main3 shutdown
 [22Dec2024 14:20:53.278] [Worker-Main11/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main55
 [22Dec2024 14:21:02.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexterminium> Example: /playgovideo @a 100 https://www.youtube.com/watch?v=r1uEEHl0qWw 0 false true 0 5 1 3
+[22Dec2024 14:21:44.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 14:21:44.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 14:22:35.589] [Worker-Main11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main11 shutdown
+[22Dec2024 14:23:35.589] [Worker-Main55/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main55 shutdown
+[22Dec2024 14:23:53.930] [Worker-Main1/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main56
+[22Dec2024 14:23:53.930] [Worker-Main1/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main57
+[22Dec2024 14:24:57.944] [Worker-Main57/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main57 shutdown
+[22Dec2024 14:25:01.030] [Worker-Main56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main58
+[22Dec2024 14:26:35.886] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[22Dec2024 14:26:44.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 14:26:44.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 14:30:22.486] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
