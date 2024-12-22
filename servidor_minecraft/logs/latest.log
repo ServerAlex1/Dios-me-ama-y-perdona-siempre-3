@@ -1136,3 +1136,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 14:08:48.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Puersiko> Que te va a hacer llorar
 [22Dec2024 14:08:51.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Puersiko> Sobre una historia
 [22Dec2024 14:08:52.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Puersiko> De skibidi
+[22Dec2024 14:13:04.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexterminium> https://www.youtube.com/watch?v=r1uEEHl0qWw
+[22Dec2024 14:13:33.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Puersiko lost connection: Timed out
+[22Dec2024 14:13:33.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Puersiko left the game
+[22Dec2024 14:13:33.982] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Dec2024 14:16:24.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Dec2024 14:16:24.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: https://www.youtube.com/watch?v=s2Oeg3OKcaM<--[HERE]
+[22Dec2024 14:16:56.832] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium lost connection: Disconnected
+[22Dec2024 14:16:56.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium left the game
+[22Dec2024 14:17:07.894] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2ba27e14
+[22Dec2024 14:17:07.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexterminium[/127.160.234.31:41703] logged in with entity id 10307 at (69.42371201172374, 303.9375, 103.89466414883948)
+[22Dec2024 14:17:07.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium joined the game
+[22Dec2024 14:17:07.943] [Server thread/INFO] [Jade/]: Syncing config to Alexterminium (ed6c5568-96fa-38fd-ad29-941150deb41a)
+[22Dec2024 14:21:02.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexterminium> Example: /playgovideo @a 100 https://www.youtube.com/watch?v=r1uEEHl0qWw 0 false true 0 5 1 3
