@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d8128931497a3f238b49367f7f7b9516"
+	name: "Puersiko"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

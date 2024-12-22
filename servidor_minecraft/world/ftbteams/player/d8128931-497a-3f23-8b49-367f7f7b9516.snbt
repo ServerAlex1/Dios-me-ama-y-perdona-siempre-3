@@ -1,0 +1,17 @@
+{
+	id: "d8128931-497a-3f23-8b49-367f7f7b9516"
+	type: "player"
+	player_name: "Puersiko"
+	ranks: {
+		d8128931-497a-3f23-8b49-367f7f7b9516: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Puersiko"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9859"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
