@@ -10575,3 +10575,42 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 20:44:08.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 20:44:08.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Dec2024 20:44:26.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Killed Steamcatcher]
+[23Dec2024 20:46:26.228] [IO-Worker-129/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-134
+[23Dec2024 20:46:45.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 20:46:52.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 20:46:56.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 20:47:59.568] [IO-Worker-134/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-135
+[23Dec2024 20:48:03.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 20:48:10.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 20:48:16.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 20:48:31.747] [IO-Worker-133/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-136
+[23Dec2024 20:49:08.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 20:49:08.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 20:49:43.554] [Worker-Main124/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main124 shutdown
+[23Dec2024 20:50:43.554] [Worker-Main9/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main9 shutdown
+[23Dec2024 20:51:35.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 20:51:38.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 20:51:42.391] [Worker-Main36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main137
+[23Dec2024 20:51:42.392] [Worker-Main36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main138
+[23Dec2024 20:51:42.409] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-139
+[23Dec2024 20:51:42.409] [IO-Worker-139/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-140
+[23Dec2024 20:51:43.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 20:51:58.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Killed Steamcatcher]
+[23Dec2024 20:52:11.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 20:52:15.133] [IO-Worker-140/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-141
+[23Dec2024 20:52:29.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 20:52:30.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 20:52:33.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 20:52:38.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Killed Steamcatcher]
+[23Dec2024 20:53:13.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 20:53:13.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 20:53:15.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 20:53:16.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 20:53:16.596] [IO-Worker-141/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-142
+[23Dec2024 20:53:22.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 20:53:34.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 20:53:35.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 20:54:08.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 20:54:08.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 20:54:27.145] [IO-Worker-139/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-144
+[23Dec2024 20:54:27.145] [IO-Worker-142/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-143
