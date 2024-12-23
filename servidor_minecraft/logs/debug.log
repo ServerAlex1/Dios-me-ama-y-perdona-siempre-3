@@ -10192,3 +10192,40 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 21:18:50.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
 [23Dec2024 21:20:23.269] [Worker-Main3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main3 shutdown
 [23Dec2024 21:20:39.960] [Worker-Main1/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main26
+[23Dec2024 21:22:44.187] [IO-Worker-13/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[23Dec2024 21:22:44.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:22:44.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:22:54.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Stopped all sounds]
+[23Dec2024 21:23:01.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Stopped all sounds]
+[23Dec2024 21:23:12.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Stopped all sounds]
+[23Dec2024 21:23:26.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 21:23:28.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 21:25:04.423] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[23Dec2024 21:25:31.610] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[23Dec2024 21:25:37.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Stopped all sounds]
+[23Dec2024 21:25:38.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 21:25:43.664] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[23Dec2024 21:26:44.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Stopped all sounds]
+[23Dec2024 21:27:25.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Stopped all sounds]
+[23Dec2024 21:27:44.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:27:44.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:27:44.288] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[23Dec2024 21:28:05.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 21:28:15.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 21:29:33.425] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[23Dec2024 21:29:33.426] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[23Dec2024 21:29:33.426] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[23Dec2024 21:29:57.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 21:31:29.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium moved too quickly! -3.737063228425626,18.45229821920495,-1.314878703749855
+[23Dec2024 21:31:36.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 21:31:43.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 21:31:43.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[23Dec2024 21:31:43.719] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[23Dec2024 21:31:43.728] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[23Dec2024 21:31:44.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium moved wrongly!
+[23Dec2024 21:31:48.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[23Dec2024 21:31:48.271] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[23Dec2024 21:31:48.278] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[23Dec2024 21:31:50.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 21:31:57.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 21:32:07.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
