@@ -5,18 +5,6 @@
     },
     "done": true
   },
-  "create:root": {
-    "criteria": {
-      "0": "2024-12-23 18:21:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-23 18:23:19 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2024-12-23 18:21:17 +0000"
@@ -35,27 +23,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2024-12-23 18:22:42 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2024-12-23 18:23:45 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2024-12-23 18:23:19 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2024-12-23 18:22:24 +0000"
     },
     "done": true
   },
@@ -95,9 +65,27 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
-      "killed_by_something": "2024-12-23 18:22:24 +0000"
+      "has_stone_bricks": "2024-12-23 19:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-23 19:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-23 19:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-23 19:09:52 +0000"
     },
     "done": true
   },
@@ -105,12 +93,79 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-23 18:33:57 +0000",
       "minecraft:grove": "2024-12-23 18:55:24 +0000",
+      "minecraft:jagged_peaks": "2024-12-23 19:07:54 +0000",
       "minecraft:forest": "2024-12-23 18:49:56 +0000",
       "minecraft:desert": "2024-12-23 18:21:17 +0000",
       "minecraft:meadow": "2024-12-23 18:29:04 +0000",
       "minecraft:plains": "2024-12-23 18:21:48 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-23 19:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-23 19:09:52 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-23 18:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-23 19:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-23 18:23:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 18:22:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-12-23 18:23:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 18:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-23 18:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-23 19:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-23 19:09:52 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3120
 }

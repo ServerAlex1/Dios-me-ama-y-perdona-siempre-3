@@ -10258,3 +10258,81 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 19:02:59.509] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
 [23Dec2024 19:03:24.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium was blown up by Ǣstríðr
 [23Dec2024 19:03:44.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to Lilith_VT]
+[23Dec2024 19:03:57.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 19:04:06.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:04:06.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:04:54.820] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[23Dec2024 19:05:35.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set the time to 1000]
+[23Dec2024 19:06:51.626] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[23Dec2024 19:07:58.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 19:08:10.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 19:08:13.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 19:08:19.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[23Dec2024 19:08:19.656] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[23Dec2024 19:08:19.658] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[23Dec2024 19:08:36.661] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[23Dec2024 19:08:37.127] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[23Dec2024 19:09:06.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:09:06.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:09:16.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium was blown up by Ǣstríðr
+[23Dec2024 19:09:16.309] [Server thread/DEBUG] [tombstone/]: A new grave of the player Alexterminium was created at position [x:-173, y:99, z:9998, dim:minecraft:overworld]
+[23Dec2024 19:09:16.597] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[23Dec2024 19:09:16.597] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[23Dec2024 19:09:18.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 19:11:01.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 19:11:19.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 19:11:59.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 19:12:07.934] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[23Dec2024 19:12:10.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[23Dec2024 19:12:10.112] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[23Dec2024 19:12:10.114] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[23Dec2024 19:12:27.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium was blown up by Ǣstríðr
+[23Dec2024 19:12:27.647] [Server thread/DEBUG] [tombstone/]: A new grave of the player Alexterminium was created at position [x:-162, y:95, z:9980, dim:minecraft:overworld]
+[23Dec2024 19:12:27.903] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[23Dec2024 19:12:27.904] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[23Dec2024 19:12:43.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 19:13:02.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 19:13:22.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 19:14:01.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 19:14:02.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[23Dec2024 19:14:02.060] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[23Dec2024 19:14:02.062] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[23Dec2024 19:14:06.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:14:06.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:14:19.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium was blown up by Ǣstríðr
+[23Dec2024 19:14:19.455] [Server thread/DEBUG] [tombstone/]: A new grave of the player Alexterminium was created at position [x:-163, y:95, z:9978, dim:minecraft:overworld]
+[23Dec2024 19:14:19.752] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[23Dec2024 19:14:19.754] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[23Dec2024 19:14:29.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[23Dec2024 19:14:29.607] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[23Dec2024 19:14:29.609] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[23Dec2024 19:14:30.731] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[23Dec2024 19:14:55.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium was blown up by Ǣstríðr
+[23Dec2024 19:15:28.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 19:17:21.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 19:17:38.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 19:18:51.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 19:19:01.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 19:19:06.025] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[23Dec2024 19:19:06.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:19:06.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:19:15.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 19:19:17.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 19:19:42.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 19:19:43.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[23Dec2024 19:19:43.856] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[23Dec2024 19:19:43.859] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[23Dec2024 19:19:54.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set the time to 1000]
+[23Dec2024 19:19:56.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to Lilith_VT]
+[23Dec2024 19:19:56.926] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[23Dec2024 19:19:56.958] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[23Dec2024 19:19:56.970] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[23Dec2024 19:20:03.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 19:22:28.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_VT moved too quickly! -9.67724348087063,0.0,3.916863449016091
+[23Dec2024 19:22:29.227] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[23Dec2024 19:22:29.227] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[23Dec2024 19:24:06.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:24:06.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:24:06.771] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[23Dec2024 19:24:06.773] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[23Dec2024 19:24:06.773] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
