@@ -785,3 +785,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 19:38:06.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
 [23Dec2024 19:38:15.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Lilith_VT to Alexterminium]
 [23Dec2024 19:42:19.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[23Dec2024 19:46:23.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lilith_VT has made the advancement [Stone Age]
