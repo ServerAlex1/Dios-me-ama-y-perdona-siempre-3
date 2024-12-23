@@ -757,3 +757,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 19:19:56.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to Lilith_VT]
 [23Dec2024 19:20:03.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
 [23Dec2024 19:22:28.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_VT moved too quickly! -9.67724348087063,0.0,3.916863449016091
+[23Dec2024 19:24:51.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 19:24:56.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 19:25:12.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 19:26:08.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 19:26:34.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[23Dec2024 19:26:34.209] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[23Dec2024 19:26:34.210] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[23Dec2024 19:26:43.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium was blown up by Ǣstríðr
+[23Dec2024 19:26:47.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 19:26:50.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 19:27:46.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 19:29:46.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set the time to 1000]
+[23Dec2024 19:31:17.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 19:32:19.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 19:32:22.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lilith_VT> alex
