@@ -695,3 +695,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 18:28:37.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
 [23Dec2024 18:28:44.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set the time to 1000]
 [23Dec2024 18:31:47.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Lilith_VT a server operator
+[23Dec2024 18:35:00.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Adventure Mode]
+[23Dec2024 18:35:09.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 18:36:10.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Adventure Mode]
+[23Dec2024 18:36:15.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 18:39:25.251] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/3795, l='ServerLevel[world]', x=-304.50, y=134.00, z=9999.70] died, message: 'Nitwit suffocated in a wall'
+[23Dec2024 18:42:39.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to Lilith_VT]
