@@ -10499,3 +10499,79 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 20:34:08.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 20:34:08.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Dec2024 20:35:07.819] [IO-Worker-128/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-129
+[23Dec2024 20:35:53.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Adventure Mode]
+[23Dec2024 20:35:55.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 20:35:57.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 20:36:06.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 20:37:09.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Killed Steamcatcher]
+[23Dec2024 20:37:23.241] [IO-Worker-129/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-130
+[23Dec2024 20:38:07.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 20:38:09.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 20:38:31.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 20:39:08.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 20:39:08.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 20:39:08.210] [IO-Worker-130/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-131
+[23Dec2024 20:41:01.659] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 31 messages to dispatch.
+[23Dec2024 20:41:01.702] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[23Dec2024 20:41:01.750] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[23Dec2024 20:41:01.802] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[23Dec2024 20:41:01.851] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[23Dec2024 20:41:01.901] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[23Dec2024 20:41:01.951] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[23Dec2024 20:41:01.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[23Dec2024 20:41:01.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[23Dec2024 20:41:01.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, forge]
+[23Dec2024 20:41:01.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 20:41:01.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 20:41:01.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'structure_gel:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 20:41:01.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 20:41:01.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'born_in_chaos_v1:born_in_chaos_v1' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corgilib:network' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 20:41:01.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.992] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'videoplayer:network' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'customnpcs:packets' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lootr:main_network_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 20:41:01.993] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.994] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 20:41:01.994] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[23Dec2024 20:41:01.994] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [lionfishapi:main_channel,structure_gel:main,alexsmobs:main_channel,tombstone:tombstone_channel,playerrevive:main,videoplayer:network,customnpcs:packets,citadel:main_channel,creativecore:main,securitycraft:securitycraft,born_in_chaos_v1:born_in_chaos_v1,corgilib:network,framework:play,lootr:main_network_channel,curios:main,geckolib3:main,create:main,waystones:network,cataclysm:main_channel,framework:handshake] rejected their client side version number
+[23Dec2024 20:41:01.995] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[23Dec2024 20:41:01.995] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Dispatching wrapped packet reply for channel fml:handshake with index 1
+[23Dec2024 20:41:02.006] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e1f4d6a[id=<null>,name=EMILIO__12,properties={},legacy=false] (/127.245.186.218:45649) lost connection: Connection closed - mismatched mod channel list
+[23Dec2024 20:42:02.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 20:42:19.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 20:42:20.546] [IO-Worker-130/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-132
+[23Dec2024 20:42:53.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 20:44:08.082] [IO-Worker-130/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-133
+[23Dec2024 20:44:08.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 20:44:08.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 20:44:26.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Killed Steamcatcher]
