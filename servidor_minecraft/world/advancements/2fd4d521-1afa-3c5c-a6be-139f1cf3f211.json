@@ -85,7 +85,11 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "autumnal_maple_forest": "2024-12-23 19:26:43 +0000"
+      "dry_bushland": "2024-12-23 19:38:15 +0000",
+      "autumnal_maple_forest": "2024-12-23 19:26:43 +0000",
+      "chalk_cliffs": "2024-12-23 19:38:51 +0000",
+      "saguaro_desert": "2024-12-23 19:38:31 +0000",
+      "baobab_savanna": "2024-12-23 19:38:29 +0000"
     },
     "done": false
   },
@@ -98,6 +102,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-23 18:33:57 +0000",
+      "minecraft:eroded_badlands": "2024-12-23 19:38:21 +0000",
+      "minecraft:stony_shore": "2024-12-23 19:38:54 +0000",
       "minecraft:grove": "2024-12-23 18:55:24 +0000",
       "minecraft:jagged_peaks": "2024-12-23 19:07:54 +0000",
       "minecraft:forest": "2024-12-23 18:49:56 +0000",
@@ -110,6 +116,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-23 19:09:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_scorched_mines": {
+    "criteria": {
+      "location0": "2024-12-23 19:38:15 +0000"
     },
     "done": true
   },
@@ -157,7 +169,11 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "autumnal_maple_forest": "2024-12-23 19:26:43 +0000"
+      "dry_bushland": "2024-12-23 19:38:15 +0000",
+      "autumnal_maple_forest": "2024-12-23 19:26:43 +0000",
+      "chalk_cliffs": "2024-12-23 19:38:51 +0000",
+      "saguaro_desert": "2024-12-23 19:38:31 +0000",
+      "baobab_savanna": "2024-12-23 19:38:29 +0000"
     },
     "done": false
   },
