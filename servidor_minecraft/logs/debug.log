@@ -10179,3 +10179,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 18:23:00.257] [Server thread/INFO] [tombstone/]: The player Lilith_VT has successfully been saved
 [23Dec2024 18:23:06.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Lilith_VT to Alexterminium]
 [23Dec2024 18:23:19.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lilith_VT has made the advancement [Alex's Mobs]
+[23Dec2024 18:23:43.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[23Dec2024 18:23:43.878] [Server thread/WARN] [tombstone/]: The death event of the player Lilith_VT was canceled by another mod
+[23Dec2024 18:23:43.878] [Server thread/INFO] [tombstone/]: The player Lilith_VT has successfully been saved
+[23Dec2024 18:23:45.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lilith_VT has reached the goal [Chain Death]
+[23Dec2024 18:23:45.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lilith_VT was electrocuted whilst fighting Ǣstríðr
+[23Dec2024 18:23:45.206] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lilith_VT was created at position [x:-200, y:99, z:9998, dim:minecraft:overworld]
+[23Dec2024 18:23:45.207] [Server thread/INFO] [tombstone/]: The player Lilith_VT has successfully been saved
+[23Dec2024 18:23:50.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Lilith_VT to Alexterminium]
+[23Dec2024 18:24:06.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 18:24:06.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 18:24:27.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set Lilith_VT's game mode to Creative Mode]
+[23Dec2024 18:27:08.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 18:27:10.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[23Dec2024 18:27:10.141] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[23Dec2024 18:27:10.142] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[23Dec2024 18:27:30.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 18:28:23.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 18:28:27.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[23Dec2024 18:28:27.700] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[23Dec2024 18:28:27.704] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[23Dec2024 18:28:37.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 18:28:44.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set the time to 1000]
+[23Dec2024 18:28:46.104] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[23Dec2024 18:29:06.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 18:29:06.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 18:31:47.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Lilith_VT a server operator
+[23Dec2024 18:32:43.554] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41

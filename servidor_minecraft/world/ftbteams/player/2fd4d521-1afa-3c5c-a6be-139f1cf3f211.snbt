@@ -1,0 +1,17 @@
+{
+	id: "2fd4d521-1afa-3c5c-a6be-139f1cf3f211"
+	type: "player"
+	player_name: "Lilith_VT"
+	ranks: {
+		2fd4d521-1afa-3c5c-a6be-139f1cf3f211: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Lilith_VT"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF95"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

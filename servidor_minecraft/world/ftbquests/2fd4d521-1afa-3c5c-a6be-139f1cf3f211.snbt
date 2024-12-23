@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "2fd4d5211afa3c5ca6be139f1cf3f211"
+	name: "Lilith_VT"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
