@@ -684,3 +684,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 21:31:50.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
 [23Dec2024 21:31:57.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
 [23Dec2024 21:32:07.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 21:32:16.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium moved too quickly! -2.0376402502427595,18.701282826570832,0.5315366811228159
+[23Dec2024 21:32:18.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium moved too quickly! 0.5171818743307313,10.419984237999103,0.07909497172840929
+[23Dec2024 21:32:26.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 21:32:56.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 21:34:05.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 21:34:42.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 21:35:02.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 21:35:36.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to 40.500000, 40.000000, 9999.500000]
+[23Dec2024 21:35:43.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to 40.500000, 120.000000, 9999.500000]
+[23Dec2024 21:37:20.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 21:37:46.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium moved too quickly! 288.3038118307072,-90.06610926093822,-9970.931513954152
+[23Dec2024 21:37:56.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 21:38:48.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 21:38:56.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 21:40:18.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium moved too quickly! -7.182889520995303,17.90297806663044,0.0
+[23Dec2024 21:41:14.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 21:41:30.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium moved too quickly! -2.5712850934314133,24.737159596659353,0.0
+[23Dec2024 21:41:39.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 21:42:04.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium moved too quickly! -8.034441069510962,9.794737865217115,-1.6605203291856014
