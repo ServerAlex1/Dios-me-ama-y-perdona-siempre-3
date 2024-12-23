@@ -630,3 +630,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 17:45:56.916] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexterminium[/127.160.234.31:33433] logged in with entity id 581 at (78.30000001192093, 305.0, 132.69999998807907)
 [23Dec2024 17:45:56.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium joined the game
 [23Dec2024 17:45:57.154] [Server thread/INFO] [Jade/]: Syncing config to Alexterminium (ed6c5568-96fa-38fd-ad29-941150deb41a)
+[23Dec2024 18:05:33.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to 40.500000, 40.000000, 9999.500000]
+[23Dec2024 18:05:33.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2447ms or 48 ticks behind
+[23Dec2024 18:06:26.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to 40.500000, 80.000000, 9999.500000]
+[23Dec2024 18:06:32.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to 40.500000, 120.000000, 9999.500000]
+[23Dec2024 18:09:59.101] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/2384, l='ServerLevel[world]', x=-278.50, y=133.00, z=10010.70] died, message: 'Farmer froze to death'
+[23Dec2024 18:10:30.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 18:10:53.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
