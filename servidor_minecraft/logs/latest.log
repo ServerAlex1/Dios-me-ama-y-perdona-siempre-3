@@ -701,3 +701,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 18:36:15.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
 [23Dec2024 18:39:25.251] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/3795, l='ServerLevel[world]', x=-304.50, y=134.00, z=9999.70] died, message: 'Nitwit suffocated in a wall'
 [23Dec2024 18:42:39.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to Lilith_VT]
+[23Dec2024 18:54:20.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 18:54:28.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 19:01:44.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 19:01:44.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[23Dec2024 19:01:44.907] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[23Dec2024 19:01:44.914] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[23Dec2024 19:02:44.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium was pummeled by Ǣstríðr
+[23Dec2024 19:02:59.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[23Dec2024 19:02:59.506] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[23Dec2024 19:02:59.509] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[23Dec2024 19:03:24.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium was blown up by Ǣstríðr
+[23Dec2024 19:03:44.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to Lilith_VT]

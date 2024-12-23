@@ -104,6 +104,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-23 18:33:57 +0000",
+      "minecraft:grove": "2024-12-23 18:55:24 +0000",
+      "minecraft:forest": "2024-12-23 18:49:56 +0000",
       "minecraft:desert": "2024-12-23 18:21:17 +0000",
       "minecraft:meadow": "2024-12-23 18:29:04 +0000",
       "minecraft:plains": "2024-12-23 18:21:48 +0000"
