@@ -721,3 +721,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 21:50:49.125] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
 [23Dec2024 21:50:57.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
 [23Dec2024 21:51:11.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 21:55:32.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 21:55:33.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 21:55:37.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 21:55:46.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 21:55:49.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 21:56:32.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 21:57:01.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 21:57:03.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set the time to 1000]
+[23Dec2024 21:57:10.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 21:57:14.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 21:57:26.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 21:57:40.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 21:58:00.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 21:58:40.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 21:58:54.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[23Dec2024 21:58:54.417] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[23Dec2024 21:58:54.424] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[23Dec2024 21:59:06.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[23Dec2024 21:59:06.665] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[23Dec2024 21:59:06.668] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[23Dec2024 21:59:06.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Applied effect Absorption to Alexterminium]
+[23Dec2024 21:59:19.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 22:00:38.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
+[23Dec2024 22:00:42.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Creative Mode]
+[23Dec2024 22:02:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Set own game mode to Survival Mode]
