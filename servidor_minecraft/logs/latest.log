@@ -715,3 +715,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Dec2024 18:53:29.406] [Server thread/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: MisterBartra deleted /workspaces/Dios-me-ama-y-perdona-siempre-3/servidor_minecraft/config/worldedit/schematics/muralla.schem
 [27Dec2024 18:55:34.598] [WorldEdit Task Executor - 5/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: MisterBartra saved /workspaces/Dios-me-ama-y-perdona-siempre-3/servidor_minecraft/config/worldedit/schematics/trozoMuralla.schem
 [27Dec2024 18:55:50.800] [WorldEdit Task Executor - 5/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: MisterBartra loaded /workspaces/Dios-me-ama-y-perdona-siempre-3/servidor_minecraft/config/worldedit/schematics/trozoMuralla.schem
+[27Dec2024 18:58:49.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MisterBartra moved too quickly! -10.128553591140872,-0.587356373441736,1.003930241744456
+[27Dec2024 18:58:50.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MisterBartra moved too quickly! -9.914291272384844,1.8454065383128864,-1.9556348249261646
+[27Dec2024 18:59:08.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to MisterBartra]
+[27Dec2024 18:59:34.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to MisterBartra]
+[27Dec2024 18:59:53.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to MisterBartra]
+[27Dec2024 19:00:14.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lilith_VT> me tengo que ir voy a salir
+[27Dec2024 19:00:29.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lilith_VT> despues si los encuentro conectados
+[27Dec2024 19:00:34.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lilith_VT> voy a trabajar
+[27Dec2024 19:00:37.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lilith_VT lost connection: Disconnected
+[27Dec2024 19:00:37.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lilith_VT left the game
+[27Dec2024 19:01:19.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to MisterBartra]
+[27Dec2024 19:04:44.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Set the time to 1000]
+[27Dec2024 19:06:10.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexterminium: Teleported Alexterminium to MisterBartra]
+[27Dec2024 19:07:53.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Successfully cloned 61 blocks]
+[27Dec2024 19:09:26.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Successfully cloned 61 blocks]
+[27Dec2024 19:09:36.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Successfully cloned 61 blocks]
+[27Dec2024 19:10:19.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Set own game mode to Spectator Mode]
+[27Dec2024 19:10:24.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Successfully cloned 61 blocks]
+[27Dec2024 19:10:30.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Successfully cloned 61 blocks]
+[27Dec2024 19:10:32.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Successfully cloned 61 blocks]
+[27Dec2024 19:10:47.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Successfully cloned 162 blocks]
+[27Dec2024 19:10:53.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Successfully cloned 162 blocks]
+[27Dec2024 19:10:54.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Successfully cloned 162 blocks]
+[27Dec2024 19:10:56.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Successfully cloned 162 blocks]
+[27Dec2024 19:11:01.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Successfully cloned 162 blocks]
+[27Dec2024 19:11:38.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Successfully cloned 162 blocks]
+[27Dec2024 19:12:06.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Set own game mode to Creative Mode]
+[27Dec2024 19:15:05.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Set the time to 1000]
+[27Dec2024 19:15:38.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Successfully filled 444 blocks]
