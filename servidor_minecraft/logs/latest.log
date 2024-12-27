@@ -744,3 +744,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Dec2024 19:12:06.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Set own game mode to Creative Mode]
 [27Dec2024 19:15:05.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Set the time to 1000]
 [27Dec2024 19:15:38.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Successfully filled 444 blocks]
+[27Dec2024 19:17:58.872] [Server thread/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: MisterBartra deleted /workspaces/Dios-me-ama-y-perdona-siempre-3/servidor_minecraft/config/worldedit/schematics/trozoMuralla.schem
+[27Dec2024 19:19:59.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterBartra> salgo a resolver unas cosas ya regreso
+[27Dec2024 19:20:08.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterBartra> me tengo que ir
+[27Dec2024 19:20:10.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MisterBartra lost connection: Disconnected
+[27Dec2024 19:20:10.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra left the game

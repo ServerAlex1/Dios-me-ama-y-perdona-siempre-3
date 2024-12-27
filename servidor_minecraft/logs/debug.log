@@ -12058,3 +12058,96 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Dec2024 19:14:58.097] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1scxw3atbf3nb]: Finished looking at arguments. Finalizing command.
 [27Dec2024 19:15:05.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Set the time to 1000]
 [27Dec2024 19:15:38.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MisterBartra: Successfully filled 444 blocks]
+[27Dec2024 19:16:11.037] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[27Dec2024 19:16:11.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 19:16:11.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 19:16:23.245] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[27Dec2024 19:16:23.248] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[27Dec2024 19:16:23.250] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[27Dec2024 19:17:47.473] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l2rw53bowemq]: started parsing
+[27Dec2024 19:17:47.473] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l2rw53bowemq]: Consuming argument ``
+[27Dec2024 19:17:49.319] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u9466qqzcv81]: started parsing
+[27Dec2024 19:17:49.319] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u9466qqzcv81]: Consuming argument `delete`
+[27Dec2024 19:17:49.319] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u9466qqzcv81]: Consuming argument ``
+[27Dec2024 19:17:49.319] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u9466qqzcv81]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:17:51.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [120zvdp7qsmfv]: started parsing
+[27Dec2024 19:17:51.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [120zvdp7qsmfv]: Consuming argument `delete`
+[27Dec2024 19:17:51.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [120zvdp7qsmfv]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:17:53.182] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ftdmf2l3u3mi]: started parsing
+[27Dec2024 19:17:53.182] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ftdmf2l3u3mi]: Consuming argument `delete`
+[27Dec2024 19:17:53.182] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ftdmf2l3u3mi]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:17:53.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bt5t1rcaszdx]: started parsing
+[27Dec2024 19:17:53.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bt5t1rcaszdx]: Consuming argument `delete`
+[27Dec2024 19:17:53.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bt5t1rcaszdx]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:17:54.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r3s9lwkbbr5g]: started parsing
+[27Dec2024 19:17:54.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r3s9lwkbbr5g]: Consuming argument `delete`
+[27Dec2024 19:17:54.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r3s9lwkbbr5g]: Consuming argument ``
+[27Dec2024 19:17:54.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r3s9lwkbbr5g]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:17:55.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cwrsefhmt2gd]: started parsing
+[27Dec2024 19:17:55.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cwrsefhmt2gd]: Consuming argument `delete`
+[27Dec2024 19:17:55.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cwrsefhmt2gd]: Consuming argument `t`
+[27Dec2024 19:17:55.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cwrsefhmt2gd]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:17:55.922] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u8jqc3wi1q73]: started parsing
+[27Dec2024 19:17:55.922] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u8jqc3wi1q73]: Consuming argument `delete`
+[27Dec2024 19:17:55.923] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u8jqc3wi1q73]: Consuming argument `tr`
+[27Dec2024 19:17:55.923] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u8jqc3wi1q73]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:17:56.107] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jtiptojlclnq]: started parsing
+[27Dec2024 19:17:56.107] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jtiptojlclnq]: Consuming argument `delete`
+[27Dec2024 19:17:56.107] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jtiptojlclnq]: Consuming argument `tro`
+[27Dec2024 19:17:56.107] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jtiptojlclnq]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:17:56.373] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dkfqaxjr0vc7]: started parsing
+[27Dec2024 19:17:56.373] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dkfqaxjr0vc7]: Consuming argument `delete`
+[27Dec2024 19:17:56.373] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dkfqaxjr0vc7]: Consuming argument `troz`
+[27Dec2024 19:17:56.373] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dkfqaxjr0vc7]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:17:56.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q3ki9qs1hr0c]: started parsing
+[27Dec2024 19:17:56.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q3ki9qs1hr0c]: Consuming argument `delete`
+[27Dec2024 19:17:56.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q3ki9qs1hr0c]: Consuming argument `trozo`
+[27Dec2024 19:17:56.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q3ki9qs1hr0c]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:17:57.241] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05ofx02dig4cg]: started parsing
+[27Dec2024 19:17:57.241] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05ofx02dig4cg]: Consuming argument `delete`
+[27Dec2024 19:17:57.241] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05ofx02dig4cg]: Consuming argument `trozoM`
+[27Dec2024 19:17:57.241] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05ofx02dig4cg]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:17:57.457] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05dvw11q2rfti]: started parsing
+[27Dec2024 19:17:57.457] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05dvw11q2rfti]: Consuming argument `delete`
+[27Dec2024 19:17:57.457] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05dvw11q2rfti]: Consuming argument `trozoMu`
+[27Dec2024 19:17:57.457] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05dvw11q2rfti]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:17:57.591] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ijjbfl52hvus]: started parsing
+[27Dec2024 19:17:57.591] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ijjbfl52hvus]: Consuming argument `delete`
+[27Dec2024 19:17:57.591] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ijjbfl52hvus]: Consuming argument `trozoMur`
+[27Dec2024 19:17:57.591] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ijjbfl52hvus]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:17:57.722] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oj2eydsu2tum]: started parsing
+[27Dec2024 19:17:57.722] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oj2eydsu2tum]: Consuming argument `delete`
+[27Dec2024 19:17:57.722] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oj2eydsu2tum]: Consuming argument `trozoMura`
+[27Dec2024 19:17:57.722] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oj2eydsu2tum]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:17:57.870] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uxtwmqxo6yu6]: started parsing
+[27Dec2024 19:17:57.870] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uxtwmqxo6yu6]: Consuming argument `delete`
+[27Dec2024 19:17:57.870] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uxtwmqxo6yu6]: Consuming argument `trozoMural`
+[27Dec2024 19:17:57.870] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uxtwmqxo6yu6]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:17:58.021] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11jbq34iw46t1]: started parsing
+[27Dec2024 19:17:58.021] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11jbq34iw46t1]: Consuming argument `delete`
+[27Dec2024 19:17:58.021] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11jbq34iw46t1]: Consuming argument `trozoMurall`
+[27Dec2024 19:17:58.021] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11jbq34iw46t1]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:17:58.143] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08aoqf51mi394]: started parsing
+[27Dec2024 19:17:58.143] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08aoqf51mi394]: Consuming argument `delete`
+[27Dec2024 19:17:58.143] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08aoqf51mi394]: Consuming argument `trozoMuralla`
+[27Dec2024 19:17:58.143] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08aoqf51mi394]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:17:58.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [126j6n5xlwljt]: started parsing
+[27Dec2024 19:17:58.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [126j6n5xlwljt]: Consuming argument `delete`
+[27Dec2024 19:17:58.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [126j6n5xlwljt]: Consuming argument `trozoMuralla`
+[27Dec2024 19:17:58.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [126j6n5xlwljt]: Finished looking at arguments. Finalizing command.
+[27Dec2024 19:17:58.872] [Server thread/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: MisterBartra deleted /workspaces/Dios-me-ama-y-perdona-siempre-3/servidor_minecraft/config/worldedit/schematics/trozoMuralla.schem
+[27Dec2024 19:18:01.979] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[27Dec2024 19:18:01.979] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[27Dec2024 19:19:27.529] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[27Dec2024 19:19:59.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterBartra> salgo a resolver unas cosas ya regreso
+[27Dec2024 19:20:08.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterBartra> me tengo que ir
+[27Dec2024 19:20:10.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MisterBartra lost connection: Disconnected
+[27Dec2024 19:20:10.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra left the game
+[27Dec2024 19:20:10.635] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[27Dec2024 19:21:11.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 19:21:11.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 19:22:31.218] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[27Dec2024 19:26:11.034] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[27Dec2024 19:26:11.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 19:26:11.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 19:26:11.120] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
