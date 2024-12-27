@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-27 18:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-11-26 03:29:03 +0000"
@@ -95,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-27 18:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-11-26 03:30:53 +0000"
@@ -113,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-27 18:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-11-26 03:14:36 +0000"
@@ -128,6 +146,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-27 18:26:12 +0000"
     },
     "done": true
   },
@@ -176,6 +200,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-11-26 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-27 18:26:12 +0000"
     },
     "done": true
   },
@@ -252,6 +282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-27 18:26:12 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/magnolia_boat": {
     "criteria": {
       "in_water": "2024-11-24 21:17:03 +0000"
@@ -279,6 +315,7 @@
       "joshua_desert": "2024-11-26 03:10:13 +0000",
       "chalk_cliffs": "2024-11-24 21:19:41 +0000",
       "saguaro_desert": "2024-11-26 02:53:29 +0000",
+      "pine_slopes": "2024-12-27 18:28:40 +0000",
       "baobab_savanna": "2024-11-24 21:19:45 +0000"
     },
     "done": false
@@ -357,6 +394,7 @@
       "joshua_desert": "2024-11-26 03:10:13 +0000",
       "chalk_cliffs": "2024-11-24 21:19:41 +0000",
       "saguaro_desert": "2024-11-26 02:53:29 +0000",
+      "pine_slopes": "2024-12-27 18:28:40 +0000",
       "baobab_savanna": "2024-11-24 21:19:45 +0000"
     },
     "done": false
@@ -563,6 +601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-27 18:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-26 03:29:03 +0000"
@@ -623,6 +667,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2024-12-27 18:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-21 19:59:32 +0000"
@@ -656,6 +706,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-11-26 03:28:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2024-12-27 18:26:12 +0000"
     },
     "done": true
   },
@@ -824,6 +880,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-12-27 18:26:12 +0000"
     },
     "done": true
   },
