@@ -11,15 +11,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2024-12-23 20:05:57 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-23 19:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-23 20:05:57 +0000"
     },
     "done": true
   },
@@ -29,15 +29,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2024-12-23 19:47:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-23 19:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-23 19:47:19 +0000"
     },
     "done": true
   },
@@ -77,15 +77,15 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
+  "tombstone:adventure/christmas": {
     "criteria": {
-      "get_stone": "2024-12-23 19:46:23 +0000"
+      "coded_trigger": "2024-12-23 18:21:16 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/ru_main/green_painted_planks": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "has_planks": "2024-12-23 20:05:57 +0000"
+      "get_stone": "2024-12-23 19:46:23 +0000"
     },
     "done": true
   },
@@ -95,9 +95,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/christmas": {
+  "regions_unexplored:recipes/ru_main/green_painted_planks": {
     "criteria": {
-      "coded_trigger": "2024-12-23 18:21:16 +0000"
+      "has_planks": "2024-12-23 20:05:57 +0000"
     },
     "done": true
   },
@@ -151,15 +151,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2024-12-23 20:05:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2024-12-23 19:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-12-23 20:05:57 +0000"
     },
     "done": true
   },
@@ -181,15 +181,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-23 19:09:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-23 18:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-23 19:09:52 +0000"
     },
     "done": true
   },
@@ -211,15 +211,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_button": {
+  "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
-      "has_planks": "2024-12-23 20:05:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2024-12-23 20:05:57 +0000"
+      "has_cobblestone": "2024-12-23 19:46:23 +0000"
     },
     "done": true
   },
@@ -229,9 +223,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
+  "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
-      "has_cobblestone": "2024-12-23 19:46:23 +0000"
+      "has_planks": "2024-12-23 20:05:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-23 20:05:57 +0000"
     },
     "done": true
   },
@@ -271,6 +271,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-27 17:57:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-23 19:46:23 +0000"
@@ -307,15 +313,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2024-12-23 19:46:35 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2024-12-23 18:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-23 19:46:35 +0000"
     },
     "done": true
   },
@@ -391,12 +397,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2024-12-23 19:46:23 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:regions_explored": {
     "criteria": {
       "dry_bushland": "2024-12-23 19:38:15 +0000",
@@ -406,6 +406,12 @@
       "baobab_savanna": "2024-12-23 19:38:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-23 19:46:23 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
@@ -419,15 +425,15 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/ru_main/light_gray_painted_planks": {
-    "criteria": {
-      "has_planks": "2024-12-23 20:05:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-23 19:46:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/light_gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-23 20:05:57 +0000"
     },
     "done": true
   },
@@ -485,12 +491,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/ru_main/pink_painted_planks": {
-    "criteria": {
-      "has_planks": "2024-12-23 20:05:57 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:pioneer": {
     "criteria": {
       "dry_bushland": "2024-12-23 19:38:15 +0000",
@@ -501,7 +501,7 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
+  "regions_unexplored:recipes/ru_main/pink_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-23 20:05:57 +0000"
     },
@@ -510,6 +510,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-23 19:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-23 20:05:57 +0000"
     },
     "done": true
   },
